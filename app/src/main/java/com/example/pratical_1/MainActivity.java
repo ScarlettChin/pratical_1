@@ -12,5 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //Newly added line of code
+        //2nd changes
+        //3th changes
+        //4th changes
     }
 }
